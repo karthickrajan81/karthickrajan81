@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @karthick
 - 👀 I’m interested in Enterprise architecture, Cloud Orchestration, Machine Learning, Block chain, Computer Vision, NLP, Text Mining, IOT and Robotics.
 - 🌱 I’m currently learning Computer vision and Machine Learning algorithms..
-- 💞️ I’m looking to collaborate on any of the interested areas listed above.
+- 💞️ I’m looking to collaborate, work and learn on any of the interested areas listed above.
